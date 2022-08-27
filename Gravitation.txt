@@ -1,0 +1,96 @@
+<html>
+ <head>
+  <title>TriunfBL</title>
+   <link rel="shortcut icon" type-"image/x-icon" href="fiufiu.png">
+ 
+<style>
+
+body{
+    margin: 0;
+    font-family: calibri;
+    background: #000;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+     
+
+header{ 
+     display: flex;
+     height: 55px;
+     background-color: #000;
+     justify-content: space-between;
+     align-items: center;
+     padding: 10px;
+}
+
+.logo{
+      display: flax:
+}
+
+.logo img{
+      height: 40px;
+}
+
+ul a{
+      font-weight: 600;
+      padding-right: 15px;
+}
+
+ul a:hover{
+      color: purple;
+}
+
+img{
+    width: 100%;
+}
+
+div {
+margin: 10;
+color: white;
+}
+  
+video{
+margin: auto;
+display: block;
+background-size: contain;
+}
+
+
+  </style>
+ </head>
+<body>
+ <header>
+  <a href="#" class="logo">
+  <img src="logo.png">
+
+
+
+</a>
+
+<ul class="menus">
+ <a href="../TriunfBL.html">Inicio</a>
+ <a href="Manhwas y Mangas.html">Manhwas y Mangas</a>
+ <a href="Videos.html">Videos</a>
+</ul>
+</header>
+
+<img src="img/GravitationFond.jpg">
+
+<div >
+
+<h1>Gravitation</h1>
+Cuenta la historia de un chico de cabello rosa Shuichi Shindou quien tiene el sueño de ser un gran cantante como Ryuichi Sakuma (cantante de la banda Nittle Gasper). Este se enamora a primera vista de Yuki Eiri un prestigioso novelista quien es un tipo extremadamente frío y serio.
+
+<p><font size="10">Capitulo 1</font></p>
+
+<video controls>
+
+<source src="Gravitation anime/Capitulo 1.mp4" type="video/mp4">
+</video>
+</div>
+ 
+</body>
+</html>
